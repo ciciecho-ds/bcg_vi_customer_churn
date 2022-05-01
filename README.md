@@ -29,7 +29,7 @@ Moreover, for those customers that are at risk of churning, a discount might inc
 
 ## Featured Deliverables
 * [Notebook For Exploratory Data Analysis](https://github.com/ciciecho-ds/bcg_vi_customer_churn/blob/0f828fdc0899d345412a730f4216924e8d35d8ab/notebooks/eda.ipynb)
-* [Notebook for Feature Engineering and Modeling](https://github.com/ciciecho-ds/bcg_vi_customer_churn/blob/0f828fdc0899d345412a730f4216924e8d35d8ab/notebooks/model.ipynb)
+* [Notebook for Feature Engineering and Modelling](https://github.com/ciciecho-ds/bcg_vi_customer_churn/blob/cceae7f55a70af349be4225e4150a094d5922a0e/notebooks/model.ipynb)
 
 ## Contact
 * Contact me at ciciechodu@gmail.com
